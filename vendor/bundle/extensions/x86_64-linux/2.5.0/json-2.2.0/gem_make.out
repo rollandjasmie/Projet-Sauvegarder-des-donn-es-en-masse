@@ -1,0 +1,13 @@
+current directory: /home/dev/Projet/Week 3/Mercredi/Projet/vendor/bundle/gems/json-2.2.0/ext/json
+/home/dev/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190726-2301-10snq6t.rb extconf.rb
+creating Makefile
+
+current directory: /home/dev/Projet/Week 3/Mercredi/Projet/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/dev/Projet/Week 3/Mercredi/Projet/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: rien à faire pour « all ».
+
+current directory: /home/dev/Projet/Week 3/Mercredi/Projet/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
